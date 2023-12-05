@@ -1,5 +1,10 @@
 ### Hi there 👋, my name is Damjan. I'm a software developer 💻
 
+
+<p>
+As a computer science grad from Singidunum University, I've spent four years juggling both front-end and back-end development. My tech toolkit is pretty packed, with skills in HTML5, CSS3, JavaScript, Angular, React, Next.js, and a couple of databases and languages like SQL, MongoDB, PHP, and NodeJS.
+<br><br>
+Currently, I'm with FlowCandy, a cool marketing firm, where I get to play with Klaviyo to craft engaging email flows and tinker with Webflow for our website needs. Whether it's perfecting email campaigns or streamlining user experience in various marketing tools, I'm all about diving into challenges and keeping up with the latest tech trends.</p>
 <!--
 **Damjan9898/Damjan9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
