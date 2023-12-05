@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Damjan. I'm a software developer 💻
 
-
+<br><br>
 <p>
 As a computer science grad from Singidunum University, I've spent four years juggling both front-end and back-end development. My tech toolkit is pretty packed, with skills in HTML5, CSS3, JavaScript, Angular, React, Next.js, and a couple of databases and languages like SQL, MongoDB, PHP, and NodeJS.
 <br><br>
