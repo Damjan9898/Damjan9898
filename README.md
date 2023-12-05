@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Damjan. I'm a software developer 💻
 
 <!--
 **Damjan9898/Damjan9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
